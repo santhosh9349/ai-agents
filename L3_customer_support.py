@@ -13,7 +13,7 @@ import os
 # Get your key from https://aistudio.google.com/
 # IMPORTANT: Make sure you have also enabled the "Generative Language API"
 # in your Google Cloud project console.
-os.environ["GEMINI_API_KEY"] = "AIzaSyDvBFH7KvTetODdTg9q0Yo1H2KwN5RWIwA"
+os.environ["GEMINI_API_KEY"] = "xyz-your-gemini-api-key"
 
 # 2. Define the LLM using the gemini/model-name format
 # We are using the 'gemini-2.5-flash-lite' model you requested.
